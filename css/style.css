@@ -3343,21 +3343,13 @@ body::before {
 }
 
 .team {
-  margin-top: clamp(1rem, 2.4vw, 2.5rem);
-  max-width: var(--max);
-  padding-inline: var(--gut)
-}
-
-.team img {
-  display: block;
-  border-radius: var(--r-lg)
+  margin-top: clamp(-8.5rem, -7.4vw, -2.6rem);
+  max-width: var(--max)
 }
 
 @media (max-width:680px) {
   .team {
-    margin-top: 1rem;
-    width: auto;
-    margin-left: auto
+    margin-top: -6.4rem
   }
 }
 
