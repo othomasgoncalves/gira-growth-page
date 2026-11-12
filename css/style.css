@@ -3343,7 +3343,7 @@ body::before {
 }
 
 .team {
-  margin-top: clamp(-8.5rem, -7.4vw, -2.6rem);
+  margin-top: clamp(-4.5rem, -3.6vw, -1.4rem);
   max-width: var(--max)
 }
 
